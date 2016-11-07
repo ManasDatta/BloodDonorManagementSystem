@@ -1,0 +1,1 @@
+Create a database named 'bdmsdb' into phpMyAdmin. Then import table 'bdmsdb.sql' into 'bdmsdb' database.
